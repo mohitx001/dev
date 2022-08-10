@@ -1,3 +1,4 @@
 this is the text in feautre 1 file 
 this is second line
 this is 3rd line
+this is new line added in file
